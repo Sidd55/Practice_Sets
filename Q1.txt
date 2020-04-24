@@ -1,0 +1,15 @@
+1. Give examples of algorithms with following time complexities: 
+
+a. O(1)  ->  Accessing particular element of array
+
+b. O(N) ->     Linear Search
+
+c. O(log N) -> Binary Search
+
+d. O(N logN) -> Quick Sort
+
+e. O(MN)  - > MultiLinear Function with m and n as constants
+
+f. O(N^2) ->   Bubble Sort
+
+g. O(N^3) ->   3 Nested for Loops
